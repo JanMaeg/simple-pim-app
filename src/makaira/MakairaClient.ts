@@ -1,5 +1,3 @@
-import { URLSearchParams } from 'next/dist/compiled/@edge-runtime/primitives/url'
-
 type ProductFeed = {
   name: string
   id: number

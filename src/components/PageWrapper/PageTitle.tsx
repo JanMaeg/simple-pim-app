@@ -23,13 +23,7 @@ const PageTitle: FunctionComponent<PageTitleProps> = ({
         </Text>
       </div>
       <div className={styles.main}>
-        <Text
-          element="p"
-          className={styles.title}
-          size="golf"
-          weight="heavy"
-          data-cy="page-title"
-        >
+        <Text element="p" className={styles.title} size="golf" weight="heavy">
           {children}
         </Text>
       </div>

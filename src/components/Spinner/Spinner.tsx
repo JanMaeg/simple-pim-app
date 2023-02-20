@@ -1,10 +1,8 @@
-
 import csx from 'classnames'
 import { FunctionComponent } from 'react'
 import { FaSpinner } from 'react-icons/fa'
 
 import styles from '@/components/Spinner/Spinner.module.scss'
-
 
 interface SpinnerProps {
   size?: 'normal' | 'small' | 'large'

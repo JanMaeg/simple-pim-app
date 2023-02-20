@@ -64,4 +64,6 @@ a {
     --spacer-xl: 32px;
     --spacer-xxl: 48px;
     --spacer-three-xl: 64px;
+
+    --transition-regular: .3s ease;
 }
